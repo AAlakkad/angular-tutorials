@@ -1,0 +1,22 @@
+{
+  "name": "angular-trainings",
+  "version": "0.0.0",
+  "authors": [
+    "Ammar Alakkad <am.alakkad@gmail.com>"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.6",
+    "foundation": "~5.4.7"
+  }
+}
